@@ -24,4 +24,4 @@ This is a **very basic implementation** done as part of learning machine learnin
 Advanced techniques like hyperparameter tuning, feature engineering, or deployment are **not included**.
 
 ## 👤 Author
-Created by a student for academic and learning purposes.
+Created by a student
